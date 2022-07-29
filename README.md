@@ -26,6 +26,7 @@
 - Save your apps, settings, & dotfiles to BigParser  `Planned`
 - Load your apps, settings, & dotfiles to BigParser  `Planned`
 - Sync your apps, settings, & dotfiles between Computers  `Planned`
+- Cross-Platform Linux, MacOS, & Windows Support `Planned`
 
 ## Install 🛠
 
