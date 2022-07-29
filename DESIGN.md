@@ -12,7 +12,7 @@
 
 ## What does this package do?
 
-`clonefactory` is designed to communicate with the `turtle` tab management APIs.
+`clonefactory` is designed to clone your apps & settings between computers.
 
 ## How is it different from what I already use?
 
