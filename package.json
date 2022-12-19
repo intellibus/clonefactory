@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "clonefactory",
-  "version": "1.0.204",
+  "version": "1.0.205",
   "description": "Clone Your Apps And Settings Onto A New Computer",
   "author": "Intellibus Labs <labs@intellibus.com> (https://intellibus.dev/)",
   "license": "MIT",
